@@ -35,6 +35,7 @@ Click "Finish" to continue the installation:
 ![4](https://user-images.githubusercontent.com/47571034/158008982-ae649440-7219-4fd0-9d67-495286f19b93.JPG)
 
 Launch the software and the friendly user interface is shown on the screen. Since there is no file imported yet, the windows are blank.
+
 ![5](https://user-images.githubusercontent.com/47571034/158008989-ef552ecf-8f00-4ea2-9f9e-0799c344ef09.JPG)
 
 ## Functionality
