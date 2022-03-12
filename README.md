@@ -19,10 +19,27 @@ Resource Hacker is a file/resource editing tool on Windows developed by Angus Jo
 * Language: English, Chinese, Japanese
 
 ## Download & Interface
+The Resource Hacker software can be downloaded from its official website: http://www.angusj.com/resourcehacker/#download. The software can be downloaded in .exe or .zip format.
+![Download](https://user-images.githubusercontent.com/47571034/158008900-d0373169-3b00-4e5c-bed2-209692ee8f1c.JPG)
+
+Click "Next" to continue the installation:
+
+![2](https://user-images.githubusercontent.com/47571034/158008976-9e3ad3b9-8cef-468d-92e4-56aedf60665c.JPG)
+
+Click "Install" to continue the installation:
+
+![3](https://user-images.githubusercontent.com/47571034/158008979-b2fca4e6-13fc-4372-9657-ab57dd54863e.JPG)
+
+Click "Finish" to continue the installation:
+
+![4](https://user-images.githubusercontent.com/47571034/158008982-ae649440-7219-4fd0-9d67-495286f19b93.JPG)
+
+Launch the software and the friendly user interface is shown on the screen. Since there is no file imported yet, the windows are blank.
+![5](https://user-images.githubusercontent.com/47571034/158008989-ef552ecf-8f00-4ea2-9f9e-0799c344ef09.JPG)
 
 ## Functionality
 ### Resource Browsing
-When a file is opened in Resource Hacker, the resource of this file is shown as a well-categorized list. From this list, there are folders with names such as AVI, Cursor, Bitmap, Icon, Menu, Dialog, and so on, which clearly indicate the content of the resource folder, helping users find the resource they want conveniently. After viewing the resource, users are able to save its content in different format for further usage.
+After installing the software, we can now explore the functionalities of Resource Hacker. When a file is opened in Resource Hacker, the resource of this file is shown as a well-categorized list. From this list, there are folders with names such as AVI, Cursor, Bitmap, Icon, Menu, Dialog, and so on, which clearly indicate the content of the resource folder, helping users find the resource they want conveniently. After viewing the resource, users are able to save its content in different format for further usage.
 
 Use **File >> Open** on the menu bar to select a target resource (ex. *.exe) to open in this editor.:
 
