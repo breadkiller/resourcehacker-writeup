@@ -107,7 +107,7 @@ In this case, the team would like to present how to modify or delete the content
 
 ![13](https://user-images.githubusercontent.com/47571034/158043165-81232cbd-746d-4d2a-8027-6c59db39e4cc.JPG)
 
-3. There are too many dialog files, which makes it difficult to find the one we want. However, we can search that dialog by keyword. It can be noticed that there is a word "update mode" in the dialog we want, so we click on the magnifier icon and enter the keyword "update mode". Then we successfully find it. When we click on a dialog resource, a template of that dialog window will be displayed on the right-bottom corner of the screen.
+3. There are too many dialog files, which makes it difficult to find the one we want. However, we can search that dialog by keyword. It can be noticed that there is a word "update mode" in the dialog we want, so we click on the magnifier icon and enter the keyword "update mode". Then we successfully find it. When we click on a dialog resource, a template of that dialog window will be displayed on the right-bottom corner of the screen. Users can even drag each component on the template to re-locate them. In the meanwhile, the coordinates value of that component in the script will be changed as well to reflect the position changing.
 
 ![15](https://user-images.githubusercontent.com/47571034/158043253-3f0744cc-51b6-4fc5-ad43-ccbef91a924d.JPG)
 
