@@ -65,7 +65,7 @@ Software optimization includes customization of software icon, cursor, bitmap, a
 
 ![Action Menu](https://user-images.githubusercontent.com/47571034/158008810-01da07f7-d1a1-44ab-bc31-c4692cfdc3c1.JPG)
 
-The following table gives a quick guidance on how to realize desired modifications:
+Our team summarized the main steps to perform a list of useful actions based on our exploration to form the following table, which gives a quick guidance on how to realize desired modifications:
 
 | Functionality        | Action           | Steps |
 | ------------- |:-------------:| ------------- |
@@ -88,16 +88,22 @@ Software cracking a black hat usage of this editor, which will remove or modify 
 
 <img width="432" alt="image" src="https://user-images.githubusercontent.com/47571034/158039263-45af6ecc-6365-4365-b401-2e70ba9272d1.png">
 
-2. Find the icon that we want to change in the icon folder, click Replace Icon. As we can see, from the bottom of the window, the icon size is 256*256, the size of new icon should be the same as that.
- ![b491d78d1af56b1ba10bdb430fe5c6f](https://user-images.githubusercontent.com/55570235/158047453-066b99ab-f28a-4b5f-b2d9-ad3fa4be8c4d.png)
+2. Find the icon that we want to change in the icon folder, and then click **Replace Icon**. As we can see from the bottom of the window, the icon size is 256*256. The size of the new icon should be the same as the old one.
+
+![b491d78d1af56b1ba10bdb430fe5c6f](https://user-images.githubusercontent.com/55570235/158047453-066b99ab-f28a-4b5f-b2d9-ad3fa4be8c4d.png)
  
-3. In the Replace Icon window, we need to open the new icon and select the origin one. 
+3. In the **Replace Icon** window, we need to open the new icon and select the origin one to replace. 
+
 ![ef7ea0fd6aaf8a1e639c338bbaa5aad](https://user-images.githubusercontent.com/55570235/158047599-a6e64ade-3ae9-442b-aa08-5fdab4961ab6.png)
+
 ![fec827102fc15eb7a3835663e6e8d5a](https://user-images.githubusercontent.com/55570235/158047503-07c29dbc-72fe-4eaf-9a81-5df0a719947e.png)
+
 ![a2eeddb3799daf8637eb01bebd235d7](https://user-images.githubusercontent.com/55570235/158047506-e90394ca-9d1a-4bfa-a22c-7d34519ab38c.png)
 
-4.Finally, click replace button. The icon 138 is changed to the new one. And the software automaticly generates all the lower resolution for the icon. After saving the source code, we can find the new file with new icon in the system.
+4. Finally, click the replace button. The icon 138 is changed to the new one, and the software automatically generates all the lower resolution alternatives for the new icon. After saving the source code, we can find the new file with new icon in the system.
+
 ![a00d4929b3f3fb3d453f801c49a3d9e](https://user-images.githubusercontent.com/55570235/158047926-d8cdbb59-1042-45d0-9be3-7d23a7a5c6a0.png)
+
 ![230115fa496ba5a1cc9e304eb60ac0d](https://user-images.githubusercontent.com/55570235/158047515-d43d213d-2e2e-47e7-b0d2-3191417616d6.png)
 
 															 
